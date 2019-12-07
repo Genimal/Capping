@@ -19,12 +19,12 @@ L.capturedTheTrigger = "([^ ]*)|1이;가; ([^!]*) 깃발 쟁탈에 성공했습�
 --L.west = "West"
 --L.front = "Front"
 --L.east = "East"
---L.hordeBoss = "Horde Boss"
---L.allianceBoss = "Alliance Boss"
---L.galvangar = "Galvangar"
---L.balinda = "Balinda"
---L.ivus = "Ivus"
---L.lokholar = "Lokholar"
+L.hordeBoss = "호드 수장"
+L.allianceBoss = "얼라이언스 수장"
+L.galvangar = "갈반가르"
+L.balinda = "발린다"
+L.ivus = "이부스"
+L.lokholar = "로크홀라"
 --L.handIn = "|cFF33FF99Capping|r: Automatically handing in quest items."
 
 --- Alliance IoC Workshop yells:
